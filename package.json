@@ -1,6 +1,6 @@
 {
   "name": "auto-terminal-profile",
-  "version": "7.0.1",
+  "version": "8.0.0-0",
   "description": "Automatically switch macOS Terminal profile when system dark / light mode changes",
   "keywords": [
     "macos",
@@ -49,7 +49,7 @@
     "consola": "^3.4.2",
     "dark-mode": "^5.0.0",
     "es-toolkit": "^1.45.1",
-    "mac-terminal": "^5.0.0"
+    "mac-terminal": "^6.0.0-0"
   },
   "devDependencies": {
     "@e18e/eslint-plugin": "^0.3.0",
